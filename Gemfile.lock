@@ -97,7 +97,11 @@ GEM
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
+<<<<<<< HEAD
     turbolinks (2.0.0)
+=======
+    turbolinks (2.1.0)
+>>>>>>> 960212da2f7b06d2eeb49dd772a5eb3c8163317a
       coffee-rails
     tzinfo (0.3.38)
     uglifier (2.3.3)

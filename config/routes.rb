@@ -1,5 +1,8 @@
 SampleApp::Application.routes.draw do
+<<<<<<< HEAD
   get "pages/home"
+=======
+>>>>>>> 960212da2f7b06d2eeb49dd772a5eb3c8163317a
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
